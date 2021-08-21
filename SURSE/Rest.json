@@ -1,0 +1,238 @@
+{
+  "companies": [
+  {
+      "name": "Google",
+      "mng_name": "Sundar Pichai"
+  },
+  {
+    "name": "Amazon",
+    "mng_name": "Jeff Bezos"
+  }
+  ],
+  "jobs": [
+    {
+      "name": "Software Developer Engineer",
+      "free_pos": 1,
+      "comp_name": "Google",
+      "salary": 10000,
+      "grad_min": 2002,
+      "grad_max": 2020,
+      "exp_min": 2,
+      "exp_max": 6,
+      "grade_min": 8.0,
+      "grade_max": null
+    },
+    {
+      "name": "Software Developer Engineer Intern",
+      "free_pos": 1,
+      "comp_name": "Google",
+      "salary": 5000,
+      "grad_min": null,
+      "grad_max": null,
+      "exp_min": 0,
+      "exp_max": 2,
+      "grade_min": 9.0,
+      "grade_max": null
+    },
+    {
+      "name": "Software Developer Engineer",
+      "free_pos": 1,
+      "comp_name": "Amazon",
+      "salary": 12000,
+      "grad_min": 2014,
+      "grad_max": 2020,
+      "exp_min": 1,
+      "exp_max": null,
+      "grade_min": 9.00,
+      "grade_max": null
+    },
+    {
+      "name": "Software Developer Engineer Intern",
+      "free_pos": 1,
+      "comp_name": "Amazon",
+      "salary": 6000,
+      "grad_min": null,
+      "grad_max": null,
+      "exp_min": 0,
+      "exp_max": 2,
+      "grade_min": 9.35,
+      "grade_max": null
+    }
+  ],
+  "friends": [
+    {
+      "name": "Daniel Edmund",
+      "where": "user",
+      "known": [
+        {
+          "name": "Julia Matvei",
+          "where": "user"
+        },
+        {
+          "name": "Leyla Stacy",
+          "where": "employee"
+        }
+      ]
+    },
+    {
+      "name": "Julia Matvei",
+      "where": "user",
+      "known": [
+        {
+          "name": "Daniel Edmund",
+          "where": "user"
+        },
+        {
+          "name": "Steward Goodwin",
+          "where": "employee"
+        },
+        {
+          "name": "Jonie Phillip",
+          "where": "recruiter"
+        }
+      ]
+    },
+    {
+      "name": "Tamara Haci",
+      "where": "user",
+      "known": [
+        {
+          "name": "Linette Spartak",
+          "where": "user"
+        },
+        {
+          "name": "Leyla Stacy",
+          "where": "employee"
+        }
+      ]
+    },
+    {
+      "name": "Linette Spartak",
+      "where": "user",
+      "known": [
+        {
+          "name": "Tamara Haci",
+          "where": "user"
+        },
+        {
+          "name": "Bryson Reenie",
+          "where": "employee"
+        }
+      ]
+    },
+    {
+      "name": "Shana Addy",
+      "where": "employee",
+      "known": [
+        {
+          "name": "Bryson Reenie",
+          "where": "employee"
+        },
+        {
+          "name": "Darrell Lillie",
+          "where": "recruiter"
+        }
+      ]
+    },
+    {
+      "name": "Leyla Stacy",
+      "where": "employee",
+      "known": [
+        {
+          "name": "Daniel Edmund",
+          "where": "user"
+        },
+        {
+          "name": "Tamara Haci",
+          "where": "user"
+        },
+        {
+          "name": "Rolland Lyla",
+          "where": "employee"
+        },
+        {
+          "name": "Janine Woody",
+          "where": "recruiter"
+        }
+      ]
+    },
+    {
+      "name": "Rolland Lyla",
+      "where": "employee",
+      "known": [
+        {
+          "name": "Leyla Stacy",
+          "where": "employee"
+        },
+        {
+          "name": "Damian Bodhi",
+          "where": "recruiter"
+        }
+      ]
+    },
+    {
+      "name": "Bryson Reenie",
+      "where": "employee",
+      "known": [
+        {
+          "name": "Linette Spartak",
+          "where": "user"
+        },
+        {
+          "name": "Shana Addy",
+          "where": "employee"
+        }
+      ]
+    },
+    {
+      "name": "Steward Goodwin",
+      "where": "employee",
+      "known": [
+        {
+          "name": "Julia Matvei",
+          "where": "user"
+        }
+      ]
+    },
+    {
+      "name": "Jonie Phillip",
+      "where": "recruiter",
+      "known": [
+        {
+          "name": "Julia Matvei",
+          "where": "user"
+        }
+      ]
+    },
+    {
+      "name": "Janine Woody",
+      "where": "recruiter",
+      "known": [
+        {
+          "name": "Leyla Stacy",
+          "where": "employee"
+        }
+      ]
+    },
+    {
+      "name": "Darrell Lillie",
+      "where": "recruiter",
+      "known": [
+        {
+          "name": "Shana Addy",
+          "where": "employee"
+        }
+      ]
+    },
+    {
+      "name": "Damian Bodhi",
+      "where": "recruiter",
+      "known": [
+        {
+          "name": "Rolland Lyla",
+          "where": "employee"
+        }
+      ]
+    }
+  ]
+}
